@@ -1,0 +1,10 @@
+git init
+git config user.name "henriqueguanais"
+git config user.email "henriquecorneaudr@gmail.com"
+git add .
+git commit -m "Arquivo de informacoes"
+git remote add origin https://github.com/henriqueguanais/curso-git-embarcatech.git
+git push origin master
+git add .
+git commit -m "Arquivo de comandos"
+git push origin master
